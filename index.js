@@ -14,22 +14,22 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/A1.mp3',
-    displayName: 'Find Someone Like You',
-    cover: 'assets/download.jpg',
+    path: '/music/music/A2 - Copy.mp3',
+    displayName: 'Give you Blue',
+    cover: '/music/music/allen-stone.jpg',
+    artist: 'Allen Stone',
+    },
+    {
+    path: '/music/music/B2.mp3',
+    displayName: 'Kiss U Right Now',
+    cover: '/music/music/dukwrth.png',
+    artist: 'Duckwrth',
+    },
+    {
+    path: '/music/music/B3 - Copy.mp3',
+    displayName: 'I Want You Around',
+    cover: '/music/music/snoh.jpg',
     artist: 'Snoh Aalegra',
-    },
-    {
-        path: 'assets/A3.mp3',
-    displayName: 'My Friend',
-    cover: 'assets/hayley.jpg',
-    artist: 'Hayley Williams',
-    },
-    {
-        path: 'assets/B5.mp3',
-    displayName: 'Call Me When You Get This',
-    cover: 'assets/cbr.jpg',
-    artist: 'Corinne Bailey Rae',
     }
 
 ];
